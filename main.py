@@ -7,7 +7,7 @@ import os
 from flask import Flask
 
 # --- НАСТРОЙКИ ---
-TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ' 
+TOKEN = '8725622605:AAGz43AVk0jyjDtZ9t4qP2FQWFPPBQark0Y' 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
 
